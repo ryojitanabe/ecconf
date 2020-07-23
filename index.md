@@ -9,6 +9,7 @@ This web site provides statistics of acceptance rate for the main evolutionary c
 * [FOGA](#foga)
 * [EMO](#emo)
 * [EuroGP](#eurogp)
+* [EvoCOP](#evocop)
 
 # <a id="coreranks" href="#coreranks">CORE2018 rankings</a> 
 
@@ -199,4 +200,39 @@ EuroGP is held as a part of Evostar, which consists of EuroGP, EvoApplications, 
 | 2020 | 36         | 18         | 50%             | Seville    | 
 
 ![EuroGP](fig/stats_eurogp.png) 
+
+## <a id="evocop" href="#evocop"> European Conference on Evolutionary Computation in Combinatorial Optimisation</a> 
+
+### References
+- [The front matter of the EvoCOP2020 proceeding](https://link.springer.com/content/pdf/bfm%3A978-3-030-43680-3%2F1.pdf)
+
+### Note
+
+EvoCOP is held as a part of Evostar, which consists of EuroGP, EvoApplications, EvoCOP, and EvoMUSART.
+
+|      |            |            |                 |            | 
+|------|------------|------------|-----------------|------------| 
+| Year | Submission | Acceptance | Acceptance rate | Place      | 
+| 2001 | 31         | 23         | 74%             | Lake Como  | 
+| 2002 | 32         | 18         | 56%             | Kinsale    | 
+| 2003 | 39         | 19         | 49%             | Essex      | 
+| 2004 | 86         | 23         | 27%             | Coimbra    | 
+| 2005 | 66         | 24         | 36%             | Lausanne   | 
+| 2006 | 77         | 24         | 31%             | Budapest   | 
+| 2007 | 81         | 21         | 26%             | Valencia   | 
+| 2008 | 69         | 24         | 35%             | Naples     | 
+| 2009 | 53         | 21         | 40%             | Tübingen   | 
+| 2010 | 69         | 24         | 35%             | Istanbul   | 
+| 2011 | 42         | 22         | 52%             | Torino     | 
+| 2012 | 48         | 22         | 46%             | Málaga     | 
+| 2013 | 50         | 23         | 46%             | Vienna     | 
+| 2014 | 42         | 20         | 48%             | Granada    | 
+| 2015 | 46         | 19         | 41%             | Copenhagen | 
+| 2016 | 44         | 17         | 39%             | Porto      | 
+| 2017 | 39         | 16         | 41%             | Amsterdam  | 
+| 2018 | 37         | 12         | 32%             | Parma      | 
+| 2019 | 37         | 14         | 38%             | Leipzig    | 
+| 2020 | 37         | 14         | 38%             | Seville    | 
+
+![EvoCOP](fig/stats_evocop.png) 
 

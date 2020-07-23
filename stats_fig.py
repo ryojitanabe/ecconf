@@ -6,11 +6,11 @@ import numpy as np
 import pandas as pd
 
 # the width value w of bars should be large for biannual conferences    
-width_vals = {'gecco':0.6, 'cec':0.6, 'eurogp':0.6, 'ppsn':1., 'emo':1., 'foga': 1.}
+width_vals = {'gecco':0.6, 'cec':0.6, 'eurogp':0.6, 'ppsn':1., 'emo':1., 'foga': 1., 'evocop':0.6}
 # this sets the y-limit for the acceptance rate. I notice that setting this kind of values manually is not efficient.
-accrate_max_vals = {'gecco':55, 'cec':80, 'eurogp':80, 'ppsn':60, 'emo':90, 'foga':70}
+accrate_max_vals = {'gecco':55, 'cec':80, 'eurogp':80, 'ppsn':60, 'emo':90, 'foga':70, 'evocop':80}
 # this sets the offset value of the position of a text for the number of submission/acceptance papers
-y_bar_offset_vals = {'gecco':30, 'cec':50, 'eurogp':3, 'ppsn':20, 'emo':8, 'foga':2}
+y_bar_offset_vals = {'gecco':30, 'cec':50, 'eurogp':3, 'ppsn':20, 'emo':8, 'foga':2, 'evocop':4}
 
 def plot_stats(conference):
     fig = plt.figure(figsize=(13, 6))
@@ -65,5 +65,6 @@ def plot_stats(conference):
     plt.close()
     
 if __name__ == '__main__':
-    for conference in ['ppsn', 'gecco', 'cec', 'foga', 'eurogp', 'emo']:
+    #for conference in ['ppsn', 'gecco', 'cec', 'foga', 'eurogp', 'emo']:    
+    for conference in ['evocop']:
         plot_stats(conference)
