@@ -1,6 +1,14 @@
-# Statistics of acceptance rate for evolutionary computation conferences
+This web site provides statistics of acceptance rate for the main evolutionary computation conferences for my own interest. Since I collected data manually, some statistics may be incorrect. If you found some errors, please email me (Ryoji Tanabe, rt.ryoji.tanabe [at] gmail.com) or send a pull request.
 
-This provides statistics of acceptance rate for the main evolutionary computation conferences for my own interest. Since I collected data manually, some statistics may be incorrect. If you found some errors, please email me (Ryoji Tanabe, rt.ryoji.tanabe [at] gmail.com) or send a pull request.
+## CORE2018 rankings
+
+|  Conferences  |  CORE2018  |
+| ---- | ---- |
+| FOGA | A* |
+| GECCO | A |
+| PPSN | A |
+| EuroGP | B |
+| CEC | B |
 
 ## GECCO: ACM Genetic and Evolutionary Computation Conference
 
@@ -62,7 +70,7 @@ PPSN is held in even years.
 
 ![PPSN](fig/stats_ppsn.png) 
 
-## CEC: IEEE CEC
+## CEC: IEEE Congress on Evolutionary Computation
 
 ### References
 - [The review written by Prof. Hisao Ishibuchi and Prof. Hisashi Handa](https://www.jstage.jst.go.jp/article/tjpnsec/1/1/1_1_15/_pdf/-char/ja)
@@ -105,9 +113,7 @@ CEC is held as a part of WCCI in even years. Statistics of WCCI/CEC2016 and WCCI
 
 ### Note
 
-FOGA has been held in odd years since 2005.
-Statistics of most FOGA conferences are missing.
-Although proceedings of FOGA1990 -- FOGA2002 were published by Morgan Kaufmann Publishers, they are currently unavailable.
+FOGA has been held in odd years since 2005. Statistics of most FOGA conferences are missing. Although proceedings of FOGA1990 -- FOGA2002 were published by Morgan Kaufmann Publishers, they are currently unavailable.
 
 
 |      |            |            |                 |                 | 
