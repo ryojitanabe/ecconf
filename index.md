@@ -1,6 +1,16 @@
 This web site provides statistics of acceptance rate for the main evolutionary computation conferences for my own interest. Since I collected data manually, some statistics may be incorrect. If you found some errors, please email me (Ryoji Tanabe, rt.ryoji.tanabe [at] gmail.com) or send a pull request.
 
-## CORE2018 rankings
+## Table of contents
+
+* [CORE2018 rankings](#coreranks)
+* [GECCO](#gecco)
+* [PPSN](#ppsn)
+* [CEC](#cec)
+* [FOGA](#foga)
+* [EMO](#emo)
+* [EuroGP](#eurogp)
+
+# <a id="coreranks" href="#coreranks">CORE2018 rankings</a> 
 
 |  Conferences  |  CORE2018  |
 | ---- | ---- |
@@ -10,7 +20,7 @@ This web site provides statistics of acceptance rate for the main evolutionary c
 | EuroGP | B |
 | CEC | B |
 
-## GECCO: ACM Genetic and Evolutionary Computation Conference
+## <a id="gecco" href="#gecco">GECCO: ACM Genetic and Evolutionary Computation Conference</a> 
 
 ### References
 - [SIGEVOlution (volume 10, issue 3)](https://evolution.sigevo.org/issues/SIGEVOlution1003.pdf)
@@ -42,7 +52,7 @@ This web site provides statistics of acceptance rate for the main evolutionary c
 
 ![GECCO](fig/stats_gecco.png) 
 
-## PPSN: Parallel Problem Solving from Nature
+## <a id="ppsn" href="#ppsn">PPSN: Parallel Problem Solving from Nature</a> 
 
 ### References
 - [SIGEVOlution (volume 11, issue 3)](https://evolution.sigevo.org/issues/SIGEVOlution1103.pdf)
@@ -70,7 +80,7 @@ PPSN is held in even years.
 
 ![PPSN](fig/stats_ppsn.png) 
 
-## CEC: IEEE Congress on Evolutionary Computation
+## <a id="cec" href="#cec">CEC: IEEE Congress on Evolutionary Computation</a> 
 
 ### References
 - [The review written by Prof. Hisao Ishibuchi and Prof. Hisashi Handa](https://www.jstage.jst.go.jp/article/tjpnsec/1/1/1_1_15/_pdf/-char/ja)
@@ -106,7 +116,7 @@ CEC is held as a part of WCCI in even years. Statistics of WCCI/CEC2016 and WCCI
 
 ![CEC](fig/stats_cec.png) 
 
-## FOGA: ACM/SIGEVO Workshop on Foundations of Genetic Algorithms
+## <a id="foga" href="#foga">FOGA: ACM/SIGEVO Workshop on Foundations of Genetic Algorithms</a> 
 
 ### References
 - The front matter of each FOGA proceeding
@@ -130,7 +140,7 @@ FOGA has been held in odd years since 2005. Statistics of most FOGA conferences 
 
 ![FOGA](fig/stats_foga.png) 
 
-## EMO: Conference on Evolutionary Multi-Criterion Optimization 
+## <a id="emo" href="#emo">EMO: Conference on Evolutionary Multi-Criterion Optimization</a> 
 
 ### References
 - The front matter of each EMO proceeding
@@ -155,8 +165,7 @@ EMO is held in odd years.
 
 ![EMO](fig/stats_emo.png) 
 
-
-## EuroGP: European Conference on Genetic Programming
+## <a id="eurogp" href="#eurogp">EuroGP: European Conference on Genetic Programming</a> 
 
 ### References
 - The front matter of each EuroGP proceeding
