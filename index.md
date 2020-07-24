@@ -1,6 +1,6 @@
-# Statistics of acceptance rate of the main evolutionary computation conferences
+# Statistics of acceptance rates of the main evolutionary computation conferences
 
-This web site provides statistics of acceptance rate of the main evolutionary computation conferences for my own interest. Since I collected data manually, some statistics may be incorrect. If you found some errors, please email me ([Ryoji Tanabe](https://ryojitanabe.github.io/), rt.ryoji.tanabe [at] gmail.com) or send a pull request from [here](https://github.com/ryojitanabe/ecconf).
+This web site provides statistics of acceptance rates of the main evolutionary computation conferences for my own interest. Since I collected data manually, some statistics may be incorrect. If you found some errors, please email me ([Ryoji Tanabe](https://ryojitanabe.github.io/), rt.ryoji.tanabe [at] gmail.com) or send a pull request from [here](https://github.com/ryojitanabe/ecconf).
 
 ## Table of contents
 
@@ -34,7 +34,7 @@ This web site provides statistics of acceptance rate of the main evolutionary co
 
 ### Note
 
-- This table provides statistics of full-papers, not two-page poster papers.
+This table provides statistics of full-papers, not two-page poster papers.
 
 | Year | Submission | Acceptance | Acceptance rate | Place         | 
 | 2001 | 352        | 170        | 48%             | San Francisco | 
