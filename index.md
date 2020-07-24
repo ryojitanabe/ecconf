@@ -1,4 +1,4 @@
-This web site provides statistics of acceptance rate for the main evolutionary computation conferences for my own interest. Since I collected data manually, some statistics may be incorrect. If you found some errors, please email me (Ryoji Tanabe, rt.ryoji.tanabe [at] gmail.com) or send a pull request.
+This web site provides statistics of acceptance rate of the main evolutionary computation conferences for my own interest. Since I collected data manually, some statistics may be incorrect. If you found some errors, please email me ([Ryoji Tanabe](https://ryojitanabe.github.io/), rt.ryoji.tanabe [at] gmail.com) or send a pull request.
 
 ## Table of contents
 
@@ -8,9 +8,12 @@ This web site provides statistics of acceptance rate for the main evolutionary c
 * [CEC](#cec)
 * [FOGA](#foga)
 * [EMO](#emo)
-* [EuroGP](#eurogp)
-* [EvoCOP](#evocop)
-
+* EvoStar
+    * [EuroGP](#eurogp)
+    * [EvoCOP](#evocop)
+    * [EvoMUSART](#evomusart)
+    * [EvoApplications](#evoapp)
+	
 # <a id="coreranks" href="#coreranks">CORE2018 rankings</a> 
 
 |  Conferences  |  CORE2018  |
@@ -85,11 +88,11 @@ PPSN is held in even years.
 
 ### References
 - [The review written by Prof. Hisao Ishibuchi and Prof. Hisashi Handa](https://www.jstage.jst.go.jp/article/tjpnsec/1/1/1_1_15/_pdf/-char/ja)
-- The CEC/WCCI conference reports in IEEE CIM
+- The CEC/WCCI conference reports in the IEEE CIM
 
 ### Note
 
-CEC is held as a part of WCCI in even years. Statistics of WCCI/CEC2016 and WCCI/CEC2018 are missing.
+CEC is held as part of WCCI in even years. Statistics of WCCI/CEC2016 and WCCI/CEC2018 are missing.
 
 |      |            |            |                 |                | 
 |------|------------|------------|-----------------|----------------| 
@@ -173,7 +176,7 @@ EMO is held in odd years.
 
 ### Note
 
-EuroGP is held as a part of Evostar, which consists of EuroGP, EvoApplications, EvoCOP, and EvoMUSART.
+EuroGP is held as part of EvoStar, which consists of EuroGP, EvoApplications, EvoCOP, and EvoMUSART.
 
 |      |            |            |                 |            | 
 |------|------------|------------|-----------------|------------| 
@@ -201,14 +204,14 @@ EuroGP is held as a part of Evostar, which consists of EuroGP, EvoApplications, 
 
 ![EuroGP](fig/stats_eurogp.png) 
 
-## <a id="evocop" href="#evocop"> European Conference on Evolutionary Computation in Combinatorial Optimisation</a> 
+## <a id="evocop" href="#evocop"> EvoCOP: European Conference on Evolutionary Computation in Combinatorial Optimisation</a> 
 
 ### References
 - [The front matter of the EvoCOP2020 proceeding](https://link.springer.com/content/pdf/bfm%3A978-3-030-43680-3%2F1.pdf)
 
 ### Note
 
-EvoCOP is held as a part of Evostar, which consists of EuroGP, EvoApplications, EvoCOP, and EvoMUSART.
+EvoCOP is held as part of EvoStar, which consists of EuroGP, EvoApplications, EvoCOP, and EvoMUSART.
 
 |      |            |            |                 |            | 
 |------|------------|------------|-----------------|------------| 
@@ -235,4 +238,54 @@ EvoCOP is held as a part of Evostar, which consists of EuroGP, EvoApplications, 
 | 2020 | 37         | 14         | 38%             | Seville    | 
 
 ![EvoCOP](fig/stats_evocop.png) 
+
+## <a id="evomusart" href="#evomusart"> EvoMUSART:  International Conference on Artificial Intelligence in Music, Sound, Art and Design </a> 
+
+### References
+- The front matter of each EvoMUSART proceeding
+
+### Note
+
+EvoMUSART is held as part of EvoStar, which consists of EuroGP, EvoApplications, EvoCOP, and EvoMUSART.
+
+|      |            |            |                 |            | 
+|------|------------|------------|-----------------|------------| 
+| Year | Submission | Acceptance | Acceptance rate | Place      | 
+| 2012 | 43         | 20         | 47%             | Málaga     | 
+| 2013 | 36         | 16         | 44%             | Vienna     | 
+| 2014 | 30         | 11         | 37%             | Granada    | 
+| 2015 | 43         | 33         | 77%             | Copenhagen | 
+| 2016 | 25         | 16         | 64%             | Porto      | 
+| 2017 | 29         | 24         | 83%             | Amsterdam  | 
+| 2018 | 33         | 20         | 61%             | Parma      | 
+| 2019 | 24         | 16         | 67%             | Leipzig    | 
+| 2020 | 31         | 15         | 48%             | Seville    | 
+
+![EvoMUSART](fig/stats_evomusart.png) 
+
+## <a id="evoapp" href="#evoapp"> EvoApplications:  International Conference on the Applications of Evolutionary Computation </a> 
+
+### References
+- The front matter of each EvoApplications proceeding
+
+### Note
+
+EvoApplications is held as part of EvoStar, which consists of EuroGP, EvoApplications, EvoCOP, and EvoMUSART. According to [Wikipedia](https://en.wikipedia.org/wiki/EvoStar), EvoApplications had been known as EvoWorkshops by 2008. 
+
+|      |     |     |     |            | 
+|------|-----|-----|-----|------------| 
+| 2009 | 143 | 91  | 64% | Tübingen   | 
+| 2010 | 191 | 109 | 57% | Istanbul   | 
+| 2011 | 162 | 87  | 54% | Torino     | 
+| 2012 | 90  | 54  | 60% | Málaga     | 
+| 2013 | 119 | 65  | 55% | Vienna     | 
+| 2014 | 128 | 79  | 62% | Granada    | 
+| 2015 | 125 | 73  | 58% | Copenhagen | 
+| 2016 | 115 | 75  | 65% | Porto      | 
+| 2017 | 108 | 72  | 67% | Amsterdam  | 
+| 2018 | 84  | 59  | 70% | Parma      | 
+| 2019 | 66  | 44  | 67% | Leipzig    | 
+| 2020 | 62  | 44  | 71% | Seville    | 
+
+![EvoApplications](fig/stats_evoapp.png) 
 
