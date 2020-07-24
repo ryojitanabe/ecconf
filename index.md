@@ -1,4 +1,6 @@
-This web site provides statistics of acceptance rate of the main evolutionary computation conferences for my own interest. Since I collected data manually, some statistics may be incorrect. If you found some errors, please email me ([Ryoji Tanabe](https://ryojitanabe.github.io/), rt.ryoji.tanabe [at] gmail.com) or send a pull request.
+# Statistics of acceptance rate of the main evolutionary computation conferences
+
+This web site provides statistics of acceptance rate of the main evolutionary computation conferences for my own interest. Since I collected data manually, some statistics may be incorrect. If you found some errors, please email me ([Ryoji Tanabe](https://ryojitanabe.github.io/), rt.ryoji.tanabe [at] gmail.com) or send a pull request from [here](https://github.com/ryojitanabe/ecconf).
 
 ## Table of contents
 
@@ -14,7 +16,7 @@ This web site provides statistics of acceptance rate of the main evolutionary co
     * [EvoMUSART](#evomusart)
     * [EvoApplications](#evoapp)
 	
-# <a id="coreranks" href="#coreranks">CORE2018 rankings</a> 
+## <a id="coreranks" href="#coreranks">CORE2018 rankings</a> 
 
 |  Conferences  |  CORE2018  |
 | ---- | ---- |
@@ -30,8 +32,10 @@ This web site provides statistics of acceptance rate of the main evolutionary co
 - [SIGEVOlution (volume 10, issue 3)](https://evolution.sigevo.org/issues/SIGEVOlution1003.pdf)
 - The front matter of each GECCO proceeding
 
-|      |            |            |                 |               | 
-|------|------------|------------|-----------------|---------------| 
+### Note
+
+- This table provides statistics of full-papers, not two-page poster papers.
+
 | Year | Submission | Acceptance | Acceptance rate | Place         | 
 | 2001 | 352        | 170        | 48%             | San Francisco | 
 | 2002 | 322        | 160        | 50%             | New York      | 
@@ -66,8 +70,6 @@ This web site provides statistics of acceptance rate of the main evolutionary co
 
 PPSN is held in even years.
 
-|      |            |            |                 |            | 
-|------|------------|------------|-----------------|------------| 
 | Year | Submission | Acceptance | Acceptance rate | Place      | 
 | 1998 | 185        | 100        | 54%             | Amsterdam  | 
 | 2000 | 168        | 88         | 52%             | Paris      | 
@@ -94,8 +96,6 @@ PPSN is held in even years.
 
 CEC is held as part of WCCI in even years. Statistics of WCCI/CEC2016 and WCCI/CEC2018 are missing.
 
-|      |            |            |                 |                | 
-|------|------------|------------|-----------------|----------------| 
 | Year | Submission | Acceptance | Acceptance rate | Place          | 
 | 2001 | 252        | 174        | 69%             | Seoul          | 
 | 2002 | 372        | 264        | 71%             | Hawaii         | 
@@ -130,8 +130,6 @@ CEC is held as part of WCCI in even years. Statistics of WCCI/CEC2016 and WCCI/C
 FOGA has been held in odd years since 2005. Statistics of most FOGA conferences are missing. Although proceedings of FOGA1990 -- FOGA2002 were published by Morgan Kaufmann Publishers, they are currently unavailable.
 
 
-|      |            |            |                 |                 | 
-|------|------------|------------|-----------------|-----------------| 
 | Year | Submission | Acceptance | Acceptance rate | Place           | 
 | 2005 | NaN        | 16         | NaN             | Aizu Wakamatsu  | 
 | 2007 | NaN        | 11         | NaN             | Mexico City     | 
@@ -153,8 +151,6 @@ FOGA has been held in odd years since 2005. Statistics of most FOGA conferences 
 
 EMO is held in odd years.
 
-|      |            |            |                 |              | 
-|------|------------|------------|-----------------|--------------| 
 | Year | Submission | Acceptance | Acceptance rate | Place        | 
 | 2001 | 87         | 45         | 52%             | Zurich       | 
 | 2003 | 100        | 56         | 56%             | Faro         | 
@@ -178,8 +174,6 @@ EMO is held in odd years.
 
 EuroGP is held as part of EvoStar, which consists of EuroGP, EvoApplications, EvoCOP, and EvoMUSART.
 
-|      |            |            |                 |            | 
-|------|------------|------------|-----------------|------------| 
 | Year | Submission | Acceptance | Acceptance rate | Place      | 
 | 2001 | 42         | 30         | 71%             | Lake Como  | 
 | 2002 | 42         | 32         | 76%             | Kinsale    | 
@@ -213,8 +207,6 @@ EuroGP is held as part of EvoStar, which consists of EuroGP, EvoApplications, Ev
 
 EvoCOP is held as part of EvoStar, which consists of EuroGP, EvoApplications, EvoCOP, and EvoMUSART.
 
-|      |            |            |                 |            | 
-|------|------------|------------|-----------------|------------| 
 | Year | Submission | Acceptance | Acceptance rate | Place      | 
 | 2001 | 31         | 23         | 74%             | Lake Como  | 
 | 2002 | 32         | 18         | 56%             | Kinsale    | 
@@ -248,8 +240,6 @@ EvoCOP is held as part of EvoStar, which consists of EuroGP, EvoApplications, Ev
 
 EvoMUSART is held as part of EvoStar, which consists of EuroGP, EvoApplications, EvoCOP, and EvoMUSART.
 
-|      |            |            |                 |            | 
-|------|------------|------------|-----------------|------------| 
 | Year | Submission | Acceptance | Acceptance rate | Place      | 
 | 2012 | 43         | 20         | 47%             | Málaga     | 
 | 2013 | 36         | 16         | 44%             | Vienna     | 
@@ -272,8 +262,7 @@ EvoMUSART is held as part of EvoStar, which consists of EuroGP, EvoApplications,
 
 EvoApplications is held as part of EvoStar, which consists of EuroGP, EvoApplications, EvoCOP, and EvoMUSART. According to [Wikipedia](https://en.wikipedia.org/wiki/EvoStar), EvoApplications had been known as EvoWorkshops by 2008. 
 
-|      |     |     |     |            | 
-|------|-----|-----|-----|------------| 
+| Year | Submission | Acceptance | Acceptance rate | Place      | 
 | 2009 | 143 | 91  | 64% | Tübingen   | 
 | 2010 | 191 | 109 | 57% | Istanbul   | 
 | 2011 | 162 | 87  | 54% | Torino     | 
