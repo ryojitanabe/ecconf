@@ -1,0 +1,19 @@
+* GECCO2018
+** This year 514 papers were submitted to 13 different tracks, and 1910 reviews were assigned. Less than 38% of papers have been accepted as full papers, with a further 29% accepted for poster presentation. In addition, 65 poster-only papers were submitted, of which less than 48% were accepted for poster presentation.
+** 514 * (29 / 100) = 149.06 \approx 150?
+** How should I handle the acceptance rate of poster-only papers?
+
+* GECCO2017
+** This year 464 papers were submitted to 13 different tracks, and 1780 reviews were assigned. Approximately 39% of papers have been accepted as full papers, with a further 36% accepted for poster presentation.
+** 464 * (36 / 100) = 167.04 \approx 167?
+* GECCO2016
+** This year 381 papers were submitted to 15 different tracks, and 1740 reviews assigned. Approximately 36% of papers have been accepted as full papers, with a further 32% accepted for poster presentation. 
+** 381 * (32 / 100) = 121.92 \approx 122?
+* GECCO2015
+** Under the guidance of Editor-in-Chief Sara Silva, the Track Chairs and Program Committee have selected 182 out of the 505submissions received in all tracks (excluding HOP) for oral presentation as full papers, resulting in an acceptance rate of 36%. Close to 100 short papers will be presented in the regular poster session. This year we also include an additional poster session, where late-breaking abstracts will be presented together with student papers.
+** Umm.. "Close to 100 short papers"
+ 
+* GECCO2010
+** This year, we received 373 submissions, of which 168 were accepted as full eight-page publication with 25 minute presentation during the conference. This corresponds to an acceptance rate of 45%. In addition, 110 submissions (29%) have been accepted for poster presentation with two-page abstracts in the proceedings. 
+* GECCO2009
+** In addition, 137 submissions (25,8%) have been accepted for poster presentations with two-page abstracts included in the proceedings.

@@ -6,6 +6,7 @@ This web site provides statistics of acceptance rates of the main evolutionary c
 
 * [CORE2018 rankings](#coreranks)
 * [GECCO](#gecco)
+* [GECCO (poster)](#gecco_poster)
 * [PPSN](#ppsn)
 * [CEC](#cec)
 * [FOGA](#foga)
@@ -59,6 +60,41 @@ This table provides statistics of full-papers, not two-page poster papers.
 | 2020 | 415        | 149        | 36%             | Cancun        | 
 
 ![GECCO](fig/stats_gecco.png) 
+
+## <a id="gecco" href="#gecco">GECCO two-page poster papers published in the companion volume </a> 
+
+### References
+- The front matter of each GECCO proceeding
+
+### Note
+
+This table provides statistics of GECCO two-page poster papers, not full-papers. Unlike other conferences in the field of evolutionary computation, poster papers and full papers are published individually in GECCO. While GECCO full papers are published in the main volume, GECCO poster papers are published in the companion volume ([dblp](https://dblp1.uni-trier.de/db/conf/gecco/)). 
+
+It is not obvious how to calculate the acceptance rate of GECCO poster papers. I calculated the acceptance rate for each year as follows: (x + y) / z, where x is the number of full paper acceptances, y is the number of poster paper acceptances, and z is the number of submissions. I believe that the acceptance rate obtained in this way is inexact, but a good approximation.
+
+| Year | Submission | Acceptance | Acceptance-full | Acceptance rate | Place         | 
+| 2001 | 352        | NaN        | 170             | NaN             | San Francisco | 
+| 2002 | 322        | NaN        | 160             | NaN             | New York      | 
+| 2003 | 417        | NaN        | 194             | NaN             | Chicago       | 
+| 2004 | 460        | 104        | 230             | 73%             | Seattle       | 
+| 2005 | 549        | 120        | 253             | 68%             | Washington DC | 
+| 2006 | 446        | 143        | 205             | 78%             | Seattle       | 
+| 2007 | 577        | 210        | 266             | 82%             | London        | 
+| 2008 | 451        | NaN        | 200             | NaN             | Atlanta       | 
+| 2009 | 531        | 137        | 220             | 67%             | Montreal      | 
+| 2010 | 373        | 110        | 169             | 75%             | Portland      | 
+| 2011 | 686        | 136        | 261             | 58%             | Dublin        | 
+| 2012 | 467        | NaN        | 172             | NaN             | Philadelphia  | 
+| 2013 | 570        | NaN        | 204             | NaN             | Amsterdam     | 
+| 2014 | 544        | NaN        | 180             | NaN             | Vancouver     | 
+| 2015 | 505        | 100        | 182             | 56%             | Madrid        | 
+| 2016 | 381        | 122        | 138             | 68%             | Denver        | 
+| 2017 | 464        | 167        | 181             | 75%             | Berlin        | 
+| 2018 | 514        | 150        | 195             | 67%             | Kyoto         | 
+| 2019 | 501        | 168        | 173             | 68%             | Prague        | 
+| 2020 | 415        | 132        | 149             | 68%             | Cancun        | 
+
+![GECCO (poster)](fig/stats_gecco_poster.png) 
 
 ## <a id="ppsn" href="#ppsn">PPSN: Parallel Problem Solving from Nature</a> 
 
