@@ -6,7 +6,7 @@ This web site provides statistics of acceptance rates of the main evolutionary c
 
 * [CORE2018 rankings](#coreranks)
 * [GECCO](#gecco)
-* [GECCO (poster)](#gecco_poster)
+* [GECCO (poster)](#geccoposter)
 * [PPSN](#ppsn)
 * [CEC](#cec)
 * [FOGA](#foga)
@@ -61,7 +61,7 @@ This table provides statistics of full-papers, not two-page poster papers.
 
 ![GECCO](fig/stats_gecco.png) 
 
-## <a id="gecco-poster" href="#gecco_poster">GECCO two-page poster papers published in the companion volume </a> 
+## <a id="geccoposter" href="#geccoposter">GECCO two-page poster papers </a> 
 
 ### References
 - The front matter of each GECCO proceeding
