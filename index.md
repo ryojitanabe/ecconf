@@ -1,21 +1,21 @@
 # Statistics of acceptance rates of the main evolutionary computation conferences
 
-This web site provides statistics of acceptance rates of the main evolutionary computation conferences for my own interest. Since I collected data manually, some statistics may be incorrect. If you found some errors, please email me ([Ryoji Tanabe](https://ryojitanabe.github.io/), rt.ryoji.tanabe [at] gmail.com) or send a pull request from [here](https://github.com/ryojitanabe/ecconf).
+This web site provides statistics of acceptance rates of the main evolutionary computation conferences for my own interest. I carefully collected data, but some of them may be incorrect. If there are any mistakes, please email me ([Ryoji Tanabe](https://ryojitanabe.github.io/), rt.ryoji.tanabe [at] gmail.com) or send a pull request from [here](https://github.com/ryojitanabe/ecconf).
 
 ## Table of contents
 
 * [CORE2018 rankings](#coreranks)
-* [GECCO](#gecco)
-* [GECCO (poster)](#geccoposter)
-* [PPSN](#ppsn)
-* [CEC](#cec)
-* [FOGA](#foga)
-* [EMO](#emo)
+* [GECCO: ACM Genetic and Evolutionary Computation Conference](#gecco)
+* [GECCO (two-page poster papers)](#geccoposter)
+* [PPSN: Parallel Problem Solving from Nature](#ppsn)
+* [CEC: IEEE Congress on Evolutionary Computation](#cec)
+* [FOGA: ACM/SIGEVO Workshop on Foundations of Genetic Algorithms](#foga)
+* [EMO: Conference on Evolutionary Multi-Criterion Optimization](#emo)
 * EvoStar
-    * [EuroGP](#eurogp)
-    * [EvoCOP](#evocop)
-    * [EvoMUSART](#evomusart)
-    * [EvoApplications](#evoapp)
+    * [EuroGP: EuroGP: European Conference on Genetic Programming](#eurogp)
+    * [EvoCOP: European Conference on Evolutionary Computation in Combinatorial Optimisation](#evocop)
+    * [EvoMUSART: International Conference on Artificial Intelligence in Music, Sound, Art and Design](#evomusart)
+    * [EvoApplications: International Conference on the Applications of Evolutionary Computation](#evoapp)
 	
 ## <a id="coreranks" href="#coreranks">CORE2018 rankings</a> 
 
@@ -35,7 +35,7 @@ This web site provides statistics of acceptance rates of the main evolutionary c
 
 ### Note
 
-This table provides statistics of full-papers, not two-page poster papers.
+This table provides statistics of full papers, not two-page poster papers.
 
 | Year | Submission | Acceptance | Acceptance rate | Place         | 
 | 2001 | 352        | 170        | 48%             | San Francisco | 
@@ -68,9 +68,9 @@ This table provides statistics of full-papers, not two-page poster papers.
 
 ### Note
 
-This table provides statistics of GECCO two-page poster papers, not full-papers. Unlike other conferences in the field of evolutionary computation, poster papers and full papers are published individually in GECCO. While GECCO full papers are published in the main volume, GECCO poster papers are published in the companion volume ([dblp](https://dblp1.uni-trier.de/db/conf/gecco/)). 
+This table provides statistics of two-page poster papers, not full papers. Unlike other conferences in the field of evolutionary computation (e.g., CEC, EMO, and Evo\*), poster papers and full papers are published individually in GECCO. While full papers are published in the main volume, poster papers are published in the companion volume ([dblp](https://dblp1.uni-trier.de/db/conf/gecco/)). 
 
-It is not obvious how to calculate the acceptance rate of GECCO poster papers. I calculated the acceptance rate for each year as follows: (x + y) / z, where x is the number of full paper acceptances, y is the number of poster paper acceptances, and z is the number of submissions. I believe that the acceptance rate obtained in this way is inexact, but a good approximation.
+It is not obvious how to calculate the acceptance rates of GECCO poster papers. I calculated the acceptance rate for each year as follows: (x + y) / z, where x is the number of full paper acceptances, y is the number of poster paper acceptances, and z is the number of submissions. I believe that the acceptance rate obtained in this way is inexact, but a good approximation.
 
 | Year | Submission | Acceptance | Acceptance-full | Acceptance rate | Place         | 
 | 2001 | 352        | NaN        | 170             | NaN             | San Francisco | 
@@ -104,7 +104,7 @@ It is not obvious how to calculate the acceptance rate of GECCO poster papers. I
 
 ### Note
 
-PPSN is held in even years.
+PPSN is held in even years. 
 
 | Year | Submission | Acceptance | Acceptance rate | Place      | 
 | 1998 | 185        | 100        | 54%             | Amsterdam  | 
@@ -125,7 +125,7 @@ PPSN is held in even years.
 ## <a id="cec" href="#cec">CEC: IEEE Congress on Evolutionary Computation</a> 
 
 ### References
-- [The review written by Prof. Hisao Ishibuchi and Prof. Hisashi Handa](https://www.jstage.jst.go.jp/article/tjpnsec/1/1/1_1_15/_pdf/-char/ja)
+- [The review written by Prof. Hisao Ishibuchi and Prof. Hisashi Handa (in Japanese)](https://www.jstage.jst.go.jp/article/tjpnsec/1/1/1_1_15/_pdf/-char/ja)
 - The CEC/WCCI conference reports in the IEEE CIM
 
 ### Note
