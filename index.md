@@ -73,20 +73,20 @@ This table provides statistics of two-page poster papers, not full papers. Unlik
 It is not obvious how to calculate the acceptance rates of GECCO poster papers. I calculated the acceptance rate for each year as follows: (x + y) / z, where x is the number of full paper acceptances, y is the number of poster paper acceptances, and z is the number of submissions. I believe that the acceptance rate obtained in this way is inexact, but a good approximation.
 
 | Year | Submission | Acceptance | Acceptance-full | Acceptance rate | Place         | 
-| 2001 | 352        | NaN        | 170             | NaN             | San Francisco | 
-| 2002 | 322        | NaN        | 160             | NaN             | New York      | 
-| 2003 | 417        | NaN        | 194             | NaN             | Chicago       | 
+| 2001 | 352        | Na        | 170             | Na             | San Francisco | 
+| 2002 | 322        | Na        | 160             | Na             | New York      | 
+| 2003 | 417        | Na        | 194             | Na             | Chicago       | 
 | 2004 | 460        | 104        | 230             | 73%             | Seattle       | 
 | 2005 | 549        | 120        | 253             | 68%             | Washington DC | 
 | 2006 | 446        | 143        | 205             | 78%             | Seattle       | 
 | 2007 | 577        | 210        | 266             | 82%             | London        | 
-| 2008 | 451        | NaN        | 200             | NaN             | Atlanta       | 
+| 2008 | 451        | Na        | 200             | Na             | Atlanta       | 
 | 2009 | 531        | 137        | 220             | 67%             | Montreal      | 
 | 2010 | 373        | 110        | 169             | 75%             | Portland      | 
 | 2011 | 686        | 136        | 261             | 58%             | Dublin        | 
-| 2012 | 467        | NaN        | 172             | NaN             | Philadelphia  | 
-| 2013 | 570        | NaN        | 204             | NaN             | Amsterdam     | 
-| 2014 | 544        | NaN        | 180             | NaN             | Vancouver     | 
+| 2012 | 467        | Na        | 172             | Na             | Philadelphia  | 
+| 2013 | 570        | Na        | 204             | Na             | Amsterdam     | 
+| 2014 | 544        | Na        | 180             | Na             | Vancouver     | 
 | 2015 | 505        | 100        | 182             | 56%             | Madrid        | 
 | 2016 | 381        | 122        | 138             | 68%             | Denver        | 
 | 2017 | 464        | 167        | 181             | 75%             | Berlin        | 
@@ -148,9 +148,9 @@ CEC is held as part of WCCI in even years. Statistics of WCCI/CEC2016 and WCCI/C
 | 2013 | 751        | 443        | 59%             | Cancún         | 
 | 2014 | 869        | 437        | 50%             | Beijing        | 
 | 2015 | 701        | 455        | 65%             | Sendai         | 
-| 2016 | NaN        | 703        | NaN             | Vancouver      | 
+| 2016 | Na        | 703        | Na             | Vancouver      | 
 | 2017 | 622        | 358        | 58%             | San Sebastian  | 
-| 2018 | NaN        | 347        | NaN             | Rio de Janeiro | 
+| 2018 | Na        | 347        | Na             | Rio de Janeiro | 
 | 2019 | 791        | 443        | 56%             | New Zealand    | 
 | 2020 | 690        | 426        | 62%             | Glasgow        | 
 
@@ -167,11 +167,11 @@ FOGA has been held in odd years since 2005. Statistics of most FOGA conferences 
 
 
 | Year | Submission | Acceptance | Acceptance rate | Place           | 
-| 2005 | NaN        | 16         | NaN             | Aizu Wakamatsu  | 
-| 2007 | NaN        | 11         | NaN             | Mexico City     | 
-| 2009 | NaN        | 18         | NaN             |  Orlando        | 
-| 2011 | NaN        | 21         | NaN             | Schwarzenberg   | 
-| 2013 | NaN        | 16         | NaN             |  Adelaide       | 
+| 2005 | Na        | 16         | Na             | Aizu Wakamatsu  | 
+| 2007 | Na        | 11         | Na             | Mexico City     | 
+| 2009 | Na        | 18         | Na             |  Orlando        | 
+| 2011 | Na        | 21         | Na             | Schwarzenberg   | 
+| 2013 | Na        | 16         | Na             |  Adelaide       | 
 | 2015 | 26         | 16         | 62%             |  Aberystwyth UK | 
 | 2017 | 23         | 13         | 57%             | Copenhagen      | 
 | 2019 | 31         | 15         | 48%             |  Potsdam        | 
