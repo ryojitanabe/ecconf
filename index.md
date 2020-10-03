@@ -25,7 +25,7 @@ This web site provides statistics of acceptance rates of the main evolutionary c
 
 The date format in the following table is ``Year/Month/Day``. The submission deadline for each conference is based on its first CFP.
 
-|  Conference  | Venue | Dates | Submission deadline | 
+|  Conference  | Venue | Dates || Submission deadline ||
 |    |  | Start | End | Abstract | Full paper | 
 | ---- | ---- | ---- | ---- |
 | [EMO 2021](https://emo2021.org/) | Shenzhen, China | 2021/March/28 | 2021/March/31 | | 2020/October/10 |
