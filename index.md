@@ -23,15 +23,17 @@ This web site provides statistics of acceptance rates of the main evolutionary c
 
 ## <a id="nextconf" href="#nextconf">Upcoming conferences</a> 
 
-The date format in the following table is YY.MM.DD (Year.Month.Day). The submission deadline for each conference is based on its first CFP.
+The date format in the following table is ``Year/Month/Day``. The submission deadline for each conference is based on its first CFP.
 
-|  Conference  | Venue | Dates | Submission deadline |  
+|  Conference  | Venue | Dates | Submission deadline | 
+|    |  | Start | End | Abstract | Full paper | 
 | ---- | ---- | ---- | ---- |
-| [EMO 2021](https://emo2021.org/) | Shenzhen, China | 2021.3.28-2021.3.31 | 2020.10.10 |
-| [Evo\* 2021](http://www.evostar.org/2021/) | Seville, Spain | 2021.4.7-2021.4.9 | 2020.11.1 |
-| [CEC 2021](https://cec2021.mini.pw.edu.pl/) | Kraków, Poland | 2021.6.28-2021.7.1 | 2021.1.31 |
-| [GECCO 2021](https://gecco-2021.sigevo.org/HomePage) | Lille, France | 2021.7.10-2021.7.14| Abstract: 2021.1.28, Paper: 2021.2.4|
-| [FOGA 2021](https://www.fhv.at/foga2021/) | Dornbirn, Austria | 2021.9.6-2021.9.8  | 2021.4.30 |
+| [EMO 2021](https://emo2021.org/) | Shenzhen, China | 2021/March/28 | 2021/March/31 | | 2020/October/10 |
+| [Evo\* 2021](http://www.evostar.org/2021/) | Seville, Spain | 2021/April/7 | 2021/April/9 | |  2020/November/1 |
+| [CEC 2021](https://cec2021.mini.pw.edu.pl/) | Kraków, Poland | 2021/June/28 | 2021/July/1 |  | 2021/January/31 |
+| [GECCO 2021](https://gecco-2021.sigevo.org/HomePage) | Lille, France | 2021/July/10 | 2021/July/14| 2021/January/28 | 2021/February/4|
+| [FOGA 2021](https://www.fhv.at/foga2021/) | Dornbirn, Austria | 2021/September/6 | 2021/September/8  | | 2021/April/30 |
+
 
 ## <a id="coreranks" href="#coreranks">CORE2018 rankings</a> 
 
