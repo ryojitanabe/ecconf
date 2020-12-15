@@ -1,6 +1,6 @@
 # Statistics of acceptance rates of the main evolutionary computation conferences
 
-This web site provides statistics of acceptance rates of the main evolutionary computation conferences for my own interest. I carefully collected data, but some of them may be incorrect. If there are any mistakes, please email me ([Ryoji Tanabe](https://ryojitanabe.github.io/), rt.ryoji.tanabe [at] gmail.com) or send a pull request from [here](https://github.com/ryojitanabe/ecconf).
+This web site provides statistics of acceptance rates of the main evolutionary computation conferences for my own interest. I carefully collected data, but some of them may be incorrect. If there are any mistakes, please email me ([Ryoji Tanabe](https://ryojitanabe.github.io/), rt.ryoji.tanabe [at] gmail.com) or report an issue from [here](https://github.com/ryojitanabe/ecconf).
 
 ## Table of contents
 
@@ -142,7 +142,7 @@ PPSN is held in even years.
 ## <a id="cec" href="#cec">CEC: IEEE Congress on Evolutionary Computation</a> 
 
 ### References
-- [The review written by Prof. Hisao Ishibuchi and Prof. Hisashi Handa (in Japanese)](https://www.jstage.jst.go.jp/article/tjpnsec/1/1/1_1_15/_pdf/-char/ja)
+- [A review written by Prof. Hisao Ishibuchi and Prof. Hisashi Handa (in Japanese)](https://www.jstage.jst.go.jp/article/tjpnsec/1/1/1_1_15/_pdf/-char/ja)
 - The CEC/WCCI conference reports in the IEEE CIM
 
 ### Note
