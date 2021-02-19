@@ -205,7 +205,7 @@ FOGA has been held in odd years since 2005. Statistics of most FOGA conferences 
 EMO is held in odd years.
 
 | Year | Submission | Acceptance | Acceptance rate | Place        | 
-| 2001 | 87         | 45         | 52%             | Zurich       | 
+| 2001 | 87         | 45         | 52%             | Zürich       | 
 | 2003 | 100        | 56         | 56%             | Faro         | 
 | 2005 | 115        | 59         | 51%             | Guanajuato   | 
 | 2007 | 124        | 65         | 52%             | Matsushima   | 
@@ -215,6 +215,9 @@ EMO is held in odd years.
 | 2015 | 90         | 68         | 76%             | Guimarães    | 
 | 2017 | 72         | 46         | 64%             | Münster      | 
 | 2019 | 76         | 59         | 78%             | East Lansing | 
+| 2021 | 120         | 61         | 51%             | Shenzhen | 
+
+
 
 ![EMO](fig/stats_emo.png) 
 
