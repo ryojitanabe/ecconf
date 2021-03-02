@@ -251,6 +251,7 @@ EuroGP is held as part of EvoStar, which consists of EuroGP, EvoApplications, Ev
 | 2018 | 36         | 19         | 53%             | Parma      | 
 | 2019 | 36         | 18         | 50%             | Leipzig    | 
 | 2020 | 36         | 18         | 50%             | Seville    | 
+| 2021 | 27         | 17         | 63%             | Virtual event    | 
 
 ![EuroGP](fig/stats_eurogp.png) 
 
@@ -284,6 +285,7 @@ EvoCOP is held as part of EvoStar, which consists of EuroGP, EvoApplications, Ev
 | 2018 | 37         | 12         | 32%             | Parma      | 
 | 2019 | 37         | 14         | 38%             | Leipzig    | 
 | 2020 | 37         | 14         | 38%             | Seville    | 
+| 2021 | 42         | 14         | 33%             | Virtual event    | 
 
 ![EvoCOP](fig/stats_evocop.png) 
 
@@ -306,6 +308,7 @@ EvoMUSART is held as part of EvoStar, which consists of EuroGP, EvoApplications,
 | 2018 | 33         | 20         | 61%             | Parma      | 
 | 2019 | 24         | 16         | 67%             | Leipzig    | 
 | 2020 | 31         | 15         | 48%             | Seville    | 
+| 2021 | 66         | 31         | 47%             | Virtual event    | 
 
 ![EvoMUSART](fig/stats_evomusart.png) 
 
@@ -331,6 +334,7 @@ EvoApplications is held as part of EvoStar, which consists of EuroGP, EvoApplica
 | 2018 | 84  | 59  | 70% | Parma      | 
 | 2019 | 66  | 44  | 67% | Leipzig    | 
 | 2020 | 62  | 44  | 71% | Seville    | 
+| 2021 | 78         | 51         | 65%             | Virtual event    | 
 
 ![EvoApplications](fig/stats_evoapp.png) 
 
