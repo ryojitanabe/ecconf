@@ -27,11 +27,10 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 
 |  Conference  | Venue | Start date | End date | Abstract submission | Paper submission |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| [EMO 2021](https://emo2021.org/) | Shenzhen, China | 2021.03.28 | 2021.03.31 | | 2020.10.10 |
-| [Evo\* 2021](http://www.evostar.org/2021/) | Seville, Spain | 2021.04.07 | 2021.04.09 | |  2020.11.01 |
 | [CEC 2021](https://cec2021.mini.pw.edu.pl/) | Kraków, Poland | 2021.06.28 | 2021.07.01 |  | 2021.01.31 |
 | [GECCO 2021](https://gecco-2021.sigevo.org/HomePage) | Lille, France | 2021.07.10 | 2021.07.14| 2021.01.28 | 2021.02.04|
 | [FOGA 2021](https://www.fhv.at/foga2021/) | Dornbirn, Austria | 2021.09.06 | 2021.09.08  | | 2021.04.30 |
+| [WCCI 2022](https://wcci2022.org/) | Padua, Italy | 2022.07.18 | 2022.07.23 |  | 2022.01.31 |
 
 
 ## <a id="coreranks" href="#coreranks">CORE2018 rankings</a> 
@@ -74,7 +73,8 @@ This table provides statistics of full papers, not two-page poster papers.
 | 2017 | 464        | 181        | 39%             | Berlin        | 
 | 2018 | 514        | 195        | 38%             | Kyoto         | 
 | 2019 | 501        | 173        | 35%             | Prague        | 
-| 2020 | 415        | 149        | 36%             | Cancun        | 
+| 2020 | 415        | 149        | 36%             | Cancún (online)       | 
+| 2021 | 362        | 136        | 38%             | Lille (online)       | 
 
 ![GECCO](fig/stats_gecco.png) 
 
