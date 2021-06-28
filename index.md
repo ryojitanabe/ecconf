@@ -27,20 +27,21 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 
 |  Conference  | Venue | Start date | End date | Abstract submission | Paper submission |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| [CEC 2021](https://cec2021.mini.pw.edu.pl/) | Kraków, Poland | 2021.06.28 | 2021.07.01 |  | 2021.01.31 |
 | [GECCO 2021](https://gecco-2021.sigevo.org/HomePage) | Lille, France | 2021.07.10 | 2021.07.14| 2021.01.28 | 2021.02.04|
 | [FOGA 2021](https://www.fhv.at/foga2021/) | Dornbirn, Austria | 2021.09.06 | 2021.09.08  | | 2021.04.30 |
+| [Evostar 2022](http://www.evostar.org/2022/) | TBD | 2022.04.20 | 2022.04.22  | | 2021.11.01 |
 | [WCCI 2022](https://wcci2022.org/) | Padua, Italy | 2022.07.18 | 2022.07.23 |  | 2022.01.31 |
 
+## <a id="coreranks" href="#coreranks">CORE2021 rankings</a> 
 
-## <a id="coreranks" href="#coreranks">CORE2018 rankings</a> 
-
-|  Conference  |  CORE2018  |
+|  Conference  |  CORE2021  |
 | ---- | ---- |
-| FOGA | A* |
+| FOGA | A |
 | GECCO | A |
 | PPSN | A |
 | EuroGP | B |
+| EvoCOP | B |
+| EvoApplications | B |
 | CEC | B |
 
 ## <a id="gecco" href="#gecco">GECCO: ACM Genetic and Evolutionary Computation Conference</a> 
@@ -110,7 +111,7 @@ It is not obvious how to calculate the acceptance rates of GECCO poster papers. 
 | 2018 | 514        | 150        | 195             | 67%             | Kyoto         | 
 | 2019 | 501        | 168        | 173             | 68%             | Prague        | 
 | 2020 | 415        | 132        | 149             | 68%             | Cancún (online)        | 
-| 2021 | 362        | 134        | 136             | 75%             | Lille (online)       | 
+| 2021 | 362        | 136        | 134             | 75%             | Lille (online)       | 
 
 ![GECCO (poster)](fig/stats_gecco_poster.png) 
 
