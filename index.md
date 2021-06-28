@@ -74,7 +74,7 @@ This table provides statistics of full papers, not two-page poster papers.
 | 2018 | 514        | 195        | 38%             | Kyoto         | 
 | 2019 | 501        | 173        | 35%             | Prague        | 
 | 2020 | 415        | 149        | 36%             | Cancún (online)       | 
-| 2021 | 362        | 136        | 38%             | Lille (online)       | 
+| 2021 | 362        | 134        | 37%             | Lille (online)       | 
 
 ![GECCO](fig/stats_gecco.png) 
 
@@ -109,7 +109,8 @@ It is not obvious how to calculate the acceptance rates of GECCO poster papers. 
 | 2017 | 464        | 167        | 181             | 75%             | Berlin        | 
 | 2018 | 514        | 150        | 195             | 67%             | Kyoto         | 
 | 2019 | 501        | 168        | 173             | 68%             | Prague        | 
-| 2020 | 415        | 132        | 149             | 68%             | Cancun        | 
+| 2020 | 415        | 132        | 149             | 68%             | Cancún (online)        | 
+| 2021 | 362        | 134        | 136             | 75%             | Lille (online)       | 
 
 ![GECCO (poster)](fig/stats_gecco_poster.png) 
 
