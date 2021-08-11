@@ -27,10 +27,11 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 
 |  Conference  | Venue | Start date | End date | Abstract submission | Paper submission |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| [GECCO 2021](https://gecco-2021.sigevo.org/HomePage) | Lille, France | 2021.07.10 | 2021.07.14| 2021.01.28 | 2021.02.04|
 | [FOGA 2021](https://www.fhv.at/foga2021/) | Dornbirn, Austria | 2021.09.06 | 2021.09.08  | | 2021.04.30 |
 | [Evostar 2022](http://www.evostar.org/2022/) | TBD | 2022.04.20 | 2022.04.22  | | 2021.11.01 |
 | [WCCI 2022](https://wcci2022.org/) | Padua, Italy | 2022.07.18 | 2022.07.23 |  | 2022.01.31 |
+| GECCO 2022 |  |  | |  | |
+| PPSN 2022 |  |  | |  | |
 
 ## <a id="coreranks" href="#coreranks">CORE2021 rankings</a> 
 
@@ -171,7 +172,8 @@ CEC is held as part of WCCI in even years. Statistics of WCCI/CEC2016 and WCCI/C
 | 2017 | 622        | 358        | 58%             | San Sebastian  | 
 | 2018 | Na        | 347        | Na             | Rio de Janeiro | 
 | 2019 | 791        | 443        | 56%             | New Zealand    | 
-| 2020 | 690        | 426        | 62%             | Glasgow        | 
+| 2020 | 690        | 426        | 62%             | Glasgow (online)        | 
+| 2021 | 542        | 324        | 60%             | Kraków (online)        | 
 
 ![CEC](fig/stats_cec.png) 
 
