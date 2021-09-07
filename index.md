@@ -32,6 +32,8 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 | [WCCI 2022](https://wcci2022.org/) | Padua, Italy | 2022.07.18 | 2022.07.23 |  | 2022.01.31 |
 | GECCO 2022 |  |  | |  | |
 | PPSN 2022 |  |  | |  | |
+| EMO 2023 |  |  | |  | |
+| FOGA 2023 |  |  | |  | |
 
 ## <a id="coreranks" href="#coreranks">CORE2021 rankings</a> 
 
@@ -150,7 +152,7 @@ PPSN is held in even years.
 
 ### Note
 
-CEC is held as part of WCCI in even years. Statistics of WCCI/CEC2016 and WCCI/CEC2018 are missing.
+CEC is held as part of WCCI in even years. Statistics of WCCI/CEC2018 are missing.
 
 | Year | Submission | Acceptance | Acceptance rate | Place          | 
 | 2001 | 252        | 174        | 69%             | Seoul          | 
@@ -168,7 +170,7 @@ CEC is held as part of WCCI in even years. Statistics of WCCI/CEC2016 and WCCI/C
 | 2013 | 751        | 443        | 59%             | Cancún         | 
 | 2014 | 869        | 437        | 50%             | Beijing        | 
 | 2015 | 701        | 455        | 65%             | Sendai         | 
-| 2016 | Na        | 703        | Na             | Vancouver      | 
+| 2016 | 1249        | 703        | 56%             | Vancouver      | 
 | 2017 | 622        | 358        | 58%             | San Sebastian  | 
 | 2018 | Na        | 347        | Na             | Rio de Janeiro | 
 | 2019 | 791        | 443        | 56%             | New Zealand    | 
