@@ -29,11 +29,14 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | [FOGA 2021](https://www.fhv.at/foga2021/) | Dornbirn, Austria | 2021.09.06 | 2021.09.08  | | 2021.04.30 |
 | [Evostar 2022](http://www.evostar.org/2022/) | TBD | 2022.04.20 | 2022.04.22  | | 2021.11.01 |
+| [GECCO 2022](https://gecco-2022.sigevo.org/) | Boston, USA | 2022.7.9 | 2022.7.13 |  | |
 | [WCCI 2022](https://wcci2022.org/) | Padua, Italy | 2022.07.18 | 2022.07.23 |  | 2022.01.31 |
-| GECCO 2022 |  |  | |  | |
 | PPSN 2022 |  |  | |  | |
 | EMO 2023 |  |  | |  | |
+| CEC 2023 | Chicago, USA | 2023.07.02 | 2023.07.05 |  |  |
 | FOGA 2023 |  |  | |  | |
+| [WCCI 2024](https://wcci2024.org/) | Yokohama, Japan | 2024.06.30 | 2024.07.05 |  |  |
+
 
 ## <a id="coreranks" href="#coreranks">CORE2021 rankings</a> 
 
