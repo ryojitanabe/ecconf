@@ -27,9 +27,8 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 
 |  Conference  | Venue | Start date | End date | Abstract submission | Paper submission |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| [FOGA 2021](https://www.fhv.at/foga2021/) | Dornbirn, Austria | 2021.09.06 | 2021.09.08  | | 2021.04.30 |
-| [Evostar 2022](http://www.evostar.org/2022/) | TBD | 2022.04.20 | 2022.04.22  | | 2021.11.01 |
-| [GECCO 2022](https://gecco-2022.sigevo.org/) | Boston, USA | 2022.7.9 | 2022.7.13 |  | |
+| [Evostar 2022](http://www.evostar.org/2022/) | Seville, Spain | 2022.04.20 | 2022.04.22  | | 2021.11.01 |
+| [GECCO 2022](https://gecco-2022.sigevo.org/) | Boston, USA | 2022.07.09 | 2022.07.13 | 2022.01.27 | 2022.02.03 |
 | [WCCI 2022](https://wcci2022.org/) | Padua, Italy | 2022.07.18 | 2022.07.23 |  | 2022.01.31 |
 | PPSN 2022 |  |  | |  | |
 | EMO 2023 |  |  | |  | |
