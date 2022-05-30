@@ -117,7 +117,7 @@ It is not obvious how to calculate the acceptance rates of GECCO poster papers. 
 | 2019 | 501        | 168        | 173             | 68%             | Prague        | 
 | 2020 | 415        | 132        | 149             | 68%             | Cancún (online)        | 
 | 2021 | 362        | 136        | 134             | 75%             | Lille (online)       | 
-| 2022 | 426        | 242        | 158             | 94%             | Boston (hybrid)       | 
+| 2022 | 426        | 184        | 158             | 80%             | Boston (hybrid)       | 
 
 ![GECCO (poster)](fig/stats_gecco_poster.png) 
 
