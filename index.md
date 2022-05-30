@@ -27,10 +27,11 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 
 |  Conference  | Venue | Start date | End date | Abstract submission | Paper submission |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| [Evostar 2022](http://www.evostar.org/2022/) | Seville, Spain | 2022.04.20 | 2022.04.22  | | 2021.11.01 |
 | [GECCO 2022](https://gecco-2022.sigevo.org/) | Boston, USA | 2022.07.09 | 2022.07.13 | 2022.01.27 | 2022.02.03 |
 | [WCCI 2022](https://wcci2022.org/) | Padua, Italy | 2022.07.18 | 2022.07.23 |  | 2022.01.31 |
 | [PPSN 2022](https://ppsn2022.cs.tu-dortmund.de/) | Dortmund, Germany | 2022.09.10 | 2022.09.14 |  | 2022.04.13|
+| [EMO 2023](https://emo2023.liacs.leidenuniv.nl) | Leiden, The Netherlands | 2023.03.20 | 2023.03.24 |  | 2022.09.26|
+| Evostar 2023 | Brno, Czech Republic |  |   | |  |
 | CEC 2023 | Chicago, USA | 2023.07.02 | 2023.07.05 |  |  |
 | [WCCI 2024](https://wcci2024.org/) | Yokohama, Japan | 2024.06.30 | 2024.07.05 |  |  |
 
