@@ -31,7 +31,7 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 | [EMO 2023](https://emo2023.liacs.leidenuniv.nl) | Leiden, The Netherlands | 2023.03.20 | 2023.03.24 |  | 2022.09.26|
 | [Evostar 2023](https://www.evostar.org/2023/) | Brno, Czech Republic | 2023.04.12 | 2023.04.14 | | 2022.11.01 |
 | CEC 2023 | Chicago, USA | 2023.07.02 | 2023.07.05 |  |  |
-| GECCO 2023 |  |  |  |  |  |
+| GECCO 2023 | Lisbon , Portugal | 2023.07.15 | 2023.07.19 |  |  |
 | FOGA 2023 |  |  |  |  |  |
 | [WCCI 2024](https://wcci2024.org/) | Yokohama, Japan | 2024.06.30 | 2024.07.05 |  |  |
 
