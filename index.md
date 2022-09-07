@@ -175,7 +175,7 @@ CEC is held as part of WCCI in even years. Statistics of WCCI/CEC2018 are missin
 | 2015 | 701        | 455        | 65%             | Sendai         | 
 | 2016 | 1249        | 703        | 56%             | Vancouver      | 
 | 2017 | 622        | 358        | 58%             | San Sebastian  | 
-| 2018 | Na        | 347        | Na             | Rio de Janeiro | 
+| 2018 | 537        | 347        | 65%             | Rio de Janeiro | 
 | 2019 | 791        | 443        | 56%             | New Zealand    | 
 | 2020 | 690        | 426        | 62%             | Glasgow (online)        | 
 | 2021 | 542        | 324        | 60%             | Kraków (online)        | 
