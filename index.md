@@ -225,7 +225,7 @@ EMO is held in odd years.
 | 2017 | 72         | 46         | 64%             | Münster      | 
 | 2019 | 76         | 59         | 78%             | East Lansing | 
 | 2021 | 120         | 61         | 51%             | Shenzhen | 
-
+| 2023 | 65         | 44         | 68%             | Leiden | 
 
 
 ![EMO](fig/stats_emo.png) 
