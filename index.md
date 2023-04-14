@@ -321,7 +321,7 @@ EvoMUSART is held as part of EvoStar, which consists of EuroGP, EvoApplications,
 | 2020 | 31         | 15         | 48%             | Seville    | 
 | 2021 | 66         | 31         | 47%             | Virtual event    | 
 | 2022 | 66         | 26         | 39%             | Madrid/online    |
-| 2022 | 55         | 27         | 49%             | Brno/online    |
+| 2023 | 55         | 27         | 49%             | Brno/online    |
 
 ![EvoMUSART](fig/stats_evomusart.png) 
 
