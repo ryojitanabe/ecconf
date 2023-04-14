@@ -27,8 +27,6 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 
 |  Conference  | Venue | Start date | End date | Abstract submission | Paper submission |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| [EMO 2023](https://emo2023.liacs.leidenuniv.nl) | Leiden, The Netherlands | 2023.03.20 | 2023.03.24 |  | 2022.09.26|
-| [Evostar 2023](https://www.evostar.org/2023/) | Brno, Czech Republic | 2023.04.12 | 2023.04.14 | | 2022.11.01 |
 | [CEC 2023](https://2023.ieee-cec.org/) | Chicago, USA | 2023.07.02 | 2023.07.05 |  |2023.01.13  |
 | [GECCO 2023](https://gecco-2023.sigevo.org/) | Lisbon , Portugal | 2023.07.15 | 2023.07.19 | 2023.02.03  | 2023.02.10 |
 | [FOGA 2023](https://hpi.de/foga2023/) | Potsdam, Germany | 2023.08.30 | 2023.09.01 |  | 2023.04.27 |
@@ -262,6 +260,7 @@ EuroGP is held as part of EvoStar, which consists of EuroGP, EvoApplications, Ev
 | 2020 | 36         | 18         | 50%             | Seville    | 
 | 2021 | 27         | 17         | 63%             | Virtual event    | 
 | 2022 | 35         | 19         | 54%             | Madrid/online    | 
+| 2023 | 38         | 22         | 58%             | Brno/online    | 
 
 ![EuroGP](fig/stats_eurogp.png) 
 
@@ -297,6 +296,7 @@ EvoCOP is held as part of EvoStar, which consists of EuroGP, EvoApplications, Ev
 | 2020 | 37         | 14         | 38%             | Seville    | 
 | 2021 | 42         | 14         | 33%             | Virtual event    | 
 | 2022 | 28         | 13         | 46%             | Madrid/online    |
+| 2023 | 32         | 15         | 47%             | Brno/online    |
 
 ![EvoCOP](fig/stats_evocop.png) 
 
@@ -321,6 +321,7 @@ EvoMUSART is held as part of EvoStar, which consists of EuroGP, EvoApplications,
 | 2020 | 31         | 15         | 48%             | Seville    | 
 | 2021 | 66         | 31         | 47%             | Virtual event    | 
 | 2022 | 66         | 26         | 39%             | Madrid/online    |
+| 2022 | 55         | 27         | 49%             | Brno/online    |
 
 ![EvoMUSART](fig/stats_evomusart.png) 
 
@@ -348,6 +349,7 @@ EvoApplications is held as part of EvoStar, which consists of EuroGP, EvoApplica
 | 2020 | 62  | 44  | 71% | Seville    | 
 | 2021 | 78         | 51         | 65%             | Virtual event    | 
 | 2022 | 67         | 46         | 69%             | Madrid/online    |
+| 2023 | 201         | 51         | 25%             | Brno/online    |
 
 ![EvoApplications](fig/stats_evoapp.png) 
 
