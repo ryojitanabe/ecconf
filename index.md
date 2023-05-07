@@ -30,7 +30,8 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 | [CEC 2023](https://2023.ieee-cec.org/) | Chicago, USA | 2023.07.02 | 2023.07.05 |  |2023.01.13  |
 | [GECCO 2023](https://gecco-2023.sigevo.org/) | Lisbon , Portugal | 2023.07.15 | 2023.07.19 | 2023.02.03  | 2023.02.10 |
 | [FOGA 2023](https://hpi.de/foga2023/) | Potsdam, Germany | 2023.08.30 | 2023.09.01 |  | 2023.04.27 |
-| [WCCI 2024](https://wcci2024.org/) | Yokohama, Japan | 2024.06.30 | 2024.07.05 |  |  |
+| [WCCI 2024](https://wcci2024.org/) | Yokohama, Japan | 2024.06.30 | 2024.07.05 |  |2024.01.15|
+| PPSN 2024 | Hagenberg, Austria | 2024.09.?? | 2024.09.?? |   | 2024.03.?? |
 
 ## <a id="coreranks" href="#coreranks">CORE2021 rankings</a> 
 
