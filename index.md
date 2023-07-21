@@ -31,7 +31,7 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 | [Evostar 2024](https://www.evostar.org/2024/) | Aberystwyth, Wales | 2024.04.03 | 2024.04.05 |   | 2023.11.01 |
 | [WCCI 2024](https://wcci2024.org/) | Yokohama, Japan | 2024.06.30 | 2024.07.05 |  |2024.01.15|
 | [GECCO 2024](https://gecco-2024.sigevo.org/) | Melbourne (hybrid), Australia | 2024.07.14 | 2024.07.18 | 2024.01.25  | 2024.02.01 |
-| PPSN 2024 | Hagenberg, Austria | 2024.09.?? | 2024.09.?? |   | 2024.03.?? |
+| [PPSN 2024](https://ppsn2024.fh-ooe.at/)| Hagenberg, Austria | 2024.09.14 | 2024.09.18 |   | 2024.04.05 |
 
 
 ## <a id="coreranks" href="#coreranks">CORE2021 rankings</a> 
