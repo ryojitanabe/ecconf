@@ -180,6 +180,8 @@ CEC is held as part of WCCI in even years.
 | 2019 | 791        | 443        | 56%             | New Zealand    | 
 | 2020 | 690        | 426        | 62%             | Glasgow (online)        | 
 | 2021 | 542        | 324        | 60%             | Kraków (online)        | 
+| 2022 | Na        | 223        | Na             | Padva        | 
+| 2023 | 230        | 130        | 57%             | Chicago        | 
 
 ![CEC](fig/stats_cec.png) 
 

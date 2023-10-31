@@ -61,12 +61,14 @@ def plot_stats(conference):
     h1, l1 = ax.get_legend_handles_labels()
     h2, l2 = ax2.get_legend_handles_labels()
     ax.legend(h1+h2, l1+l2, fontsize=15, loc='upper right', bbox_to_anchor=(0.9, 1.13), ncol=3)
+
+    #ax.set_rasterization_zorder(-5)
     
     fig_name = 'fig/stats_%s.png' % (conference)
-    plt.savefig(fig_name, bbox_inches="tight", rasterized=True)
+    plt.savefig(fig_name, bbox_inches="tight")
     plt.close()
     
 if __name__ == '__main__':
     #for conference in ['ppsn', 'gecco', 'cec', 'foga', 'emo', 'eurogp', 'evocop', 'evomusart', 'evoapp']:    
-    for conference in ['gecco_poster']:
+    for conference in ['cec']:
         plot_stats(conference)
