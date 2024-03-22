@@ -79,6 +79,7 @@ This table provides statistics of full papers, not two-page poster papers.
 | 2021 | 362        | 134        | 37%             | Lille (online)       | 
 | 2022 | 426        | 158        | 37%             | Boston (hybrid)       | 
 | 2023 | 519        | 180        | 35%             | Lisbon (hybrid)       | 
+| 2024 | 495        | 178        | 36%             | Melbourne (hybrid)       | 
 
 ![GECCO](fig/stats_gecco.png) 
 
@@ -117,6 +118,7 @@ It is not obvious how to calculate the acceptance rates of GECCO poster papers. 
 | 2021 | 362        | 136        | 134             | 75%             | Lille (online)       | 
 | 2022 | 426        | 184        | 158             | 80%             | Boston (hybrid)       | 
 | 2023 | 519        | 187        | 180             | 71%             | Lisbon (hybrid)       | 
+
 
 ![GECCO (poster)](fig/stats_gecco_poster.png) 
 
@@ -266,6 +268,7 @@ EuroGP is held as part of EvoStar, which consists of EuroGP, EvoApplications, Ev
 | 2021 | 27         | 17         | 63%             | Virtual event    | 
 | 2022 | 35         | 19         | 54%             | Madrid/online    | 
 | 2023 | 38         | 22         | 58%             | Brno/online    | 
+| 2024 | 24         | 13         | 54%             | Aberystwyth    | 
 
 ![EuroGP](fig/stats_eurogp.png) 
 
@@ -302,6 +305,7 @@ EvoCOP is held as part of EvoStar, which consists of EuroGP, EvoApplications, Ev
 | 2021 | 42         | 14         | 33%             | Virtual event    | 
 | 2022 | 28         | 13         | 46%             | Madrid/online    |
 | 2023 | 32         | 15         | 47%             | Brno/online    |
+| 2024 | 28         | 12         | 43%             | Aberystwyth    | 
 
 ![EvoCOP](fig/stats_evocop.png) 
 
@@ -327,6 +331,7 @@ EvoMUSART is held as part of EvoStar, which consists of EuroGP, EvoApplications,
 | 2021 | 66         | 31         | 47%             | Virtual event    | 
 | 2022 | 66         | 26         | 39%             | Madrid/online    |
 | 2023 | 55         | 27         | 49%             | Brno/online    |
+| 2024 | 55         | 25         | 45%             | Aberystwyth    | 
 
 ![EvoMUSART](fig/stats_evomusart.png) 
 
@@ -355,6 +360,7 @@ EvoApplications is held as part of EvoStar, which consists of EuroGP, EvoApplica
 | 2021 | 78         | 51         | 65%             | Virtual event    | 
 | 2022 | 67         | 46         | 69%             | Madrid/online    |
 | 2023 | 201         | 51         | 25%             | Brno/online    |
+| 2024 | 77         | 33         | 43%             | Aberystwyth    | 
 
 ![EvoApplications](fig/stats_evoapp.png) 
 
