@@ -27,11 +27,13 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 
 |  Conference  | Venue | Start date | End date | Abstract submission | Paper submission |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| [WCCI 2024](https://wcci2024.org/) | Yokohama, Japan | 2024.06.30 | 2024.07.05 |  |2024.01.15|
-| [GECCO 2024](https://gecco-2024.sigevo.org/) | Melbourne (hybrid), Australia | 2024.07.14 | 2024.07.18 | 2024.01.25  | 2024.02.01 |
 | [PPSN 2024](https://ppsn2024.fh-ooe.at/)| Hagenberg, Austria | 2024.09.14 | 2024.09.18 |   | 2024.04.05 |
 | [EMO 2025](https://www.emo2025.org/)| Canberra, Australia | 2025.03.04 | 2025.03.07 |   | 2024.11.15 |
-| Evostar 2025 | Trieste, Italy | 2025.04.?? | 2025.04.?? |   | 2024.11.?? |
+| [Evostar 2025](https://www.evostar.org/2025/) | Trieste, Italy | 2025.04.23 | 2025.04.25 |   | 2024.11.01 |
+| CEC 2025) | ???, ??? | 2025.??.?? | 2025.??.?? |  |2025.??.??|
+| GECCO 2025 | Somewhere in Europe | 2025.07.?? | 2025.07.?? | 2025.01.22  | 2025.01.29 |
+| FOGA 2025 | Leiden, Netherlands | 2025.08.27 | 2025.08.29 |   | 2025.05.?? |
+
 
 ## <a id="coreranks" href="#coreranks">CORE2021 rankings</a> 
 
