@@ -32,7 +32,7 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 | [Evostar 2025](https://www.evostar.org/2025/) | Trieste, Italy | 2025.04.23 | 2025.04.25 |   | 2024.11.01 |
 | [CEC 2025](https://cis.ieee.org/images/files/Documents/call-for-papers/CFP_-_2025_CEC_-_Final.pdf) | Hangzhou,China | 2025.07.08 | 2025.07.12 |  |2025.01.15|
 | GECCO 2025 | Somewhere in Europe | 2025.07.?? | 2025.07.?? | 2025.01.22  | 2025.01.29 |
-| FOGA 2025 | Leiden, Netherlands | 2025.08.27 | 2025.08.29 |   | 2025.05.?? |
+| [FOGA 2025](https://naco.liacs.nl/foga2025/) | Leiden, Netherlands | 2025.08.27 | 2025.08.29 |   | 2025.05.01 |
 
 
 ## <a id="coreranks" href="#coreranks">CORE2021 rankings</a> 
@@ -81,7 +81,7 @@ This table provides statistics of full papers, not two-page poster papers.
 | 2021 | 362        | 134        | 37%             | Lille (online)       | 
 | 2022 | 426        | 158        | 37%             | Boston (hybrid)       | 
 | 2023 | 519        | 180        | 35%             | Lisbon (hybrid)       | 
-| 2024 | 495        | 178        | 36%             | Melbourne (hybrid)       | 
+| 2024 | 497        | 178        | 36%             | Melbourne (hybrid)       |
 
 ![GECCO](fig/stats_gecco.png) 
 
@@ -120,7 +120,7 @@ It is not obvious how to calculate the acceptance rates of GECCO poster papers. 
 | 2021 | 362        | 136        | 134             | 75%             | Lille (online)       | 
 | 2022 | 426        | 184        | 158             | 80%             | Boston (hybrid)       | 
 | 2023 | 519        | 187        | 180             | 71%             | Lisbon (hybrid)       | 
-
+| 2024 | 497        | 160        | 178             | 68%             | Melbourne (hybrid)       | 
 
 ![GECCO (poster)](fig/stats_gecco_poster.png) 
 
