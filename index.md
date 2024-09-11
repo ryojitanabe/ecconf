@@ -148,6 +148,7 @@ PPSN is held in even years.
 | 2018 | 205        | 79         | 39%             | Coimbra    | 
 | 2020 | 268        | 99         | 37%             | Leiden     | 
 | 2022 | 185        | 85         | 46%             | Dortmund     | 
+| 2024 | 294        | 101         | 34%             | Hagenberg     | 
 
 ![PPSN](fig/stats_ppsn.png) 
 
