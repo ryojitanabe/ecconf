@@ -27,7 +27,7 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 
 |  Conference  | Venue | Start date | End date | Abstract submission | Paper submission |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| [EMO 2025](https://www.emo2025.org/)| Canberra, Australia | 2025.03.04 | 2025.03.07 |   | 2024.11.15 |
+| [EMO 2025](https://www.emo2025.org/)| Canberra, Australia | 2025.03.04 | 2025.03.07 |   | 2024.10.01 |
 | [Evostar 2025](https://www.evostar.org/2025/) | Trieste, Italy | 2025.04.23 | 2025.04.25 |   | 2024.11.01 |
 | [CEC 2025](https://www.cec2025.org/) | Hangzhou,China | 2025.07.08 | 2025.07.12 |  |2025.01.15|
 | [GECCO 2025](https://gecco-2025.sigevo.org/) | Málaga, Spain | 2025.07.14 | 2025.07.18 | 2025.01.22  | 2025.01.29 |
