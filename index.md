@@ -18,22 +18,19 @@ This web site provides statistics of acceptance rates of the main evolutionary c
     * [EvoMUSART: International Conference on Artificial Intelligence in Music, Sound, Art and Design](#evomusart)
     * [EvoApplications: International Conference on the Applications of Evolutionary Computation](#evoapp)
 
-
-
-
 ## <a id="nextconf" href="#nextconf">Upcoming conferences</a> 
 
 The date format in the following table is ``Year.Month.Day``. The submission deadline for each conference is based on its first CFP. 
 
 |  Conference  | Venue | Start date | End date | Abstract submission | Paper submission |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| [Evostar 2025](https://www.evostar.org/2025/) | Trieste, Italy | 2025.04.23 | 2025.04.25 |   | 2024.11.01 |
 | [CEC 2025](https://www.cec2025.org/) | Hangzhou,China | 2025.07.08 | 2025.07.12 |  |2025.01.15|
 | [GECCO 2025](https://gecco-2025.sigevo.org/) | Málaga, Spain | 2025.07.14 | 2025.07.18 | 2025.01.22  | 2025.01.29 |
 | [FOGA 2025](https://naco.liacs.nl/foga2025/) | Leiden, Netherlands | 2025.08.27 | 2025.08.29 |   | 2025.05.01 |
+| Evostar 2026 | Somewhere in Europe | 2026.04.?? | 2026.04.?? |   | 2025.1?.?? |
+| [WCCI 2026](https://attend.ieee.org/wcci-2026/) | Maastricht, Netherlands | 2026.06.21 | 2026.06.26 |  |2026.01.??|
 | PPSN 2026 | Somewhere in Europe | 2026.09.?? | 2026.09.?? |   | 2026.0?.?? |
 | EMO 2027 | Somewhere in this world | 2027.03.?? | 2027.03.?? |   | 2026.??.?? |
-
 
 ## <a id="coreranks" href="#coreranks">CORE2021 rankings</a> 
 
@@ -273,6 +270,7 @@ EuroGP is held as part of EvoStar, which consists of EuroGP, EvoApplications, Ev
 | 2022 | 35         | 19         | 54%             | Madrid/online    | 
 | 2023 | 38         | 22         | 58%             | Brno/online    | 
 | 2024 | 24         | 13         | 54%             | Aberystwyth    | 
+| 2025 | 27         | 15         | 56%             | Trieste    | 
 
 ![EuroGP](fig/stats_eurogp.png) 
 
@@ -310,6 +308,7 @@ EvoCOP is held as part of EvoStar, which consists of EuroGP, EvoApplications, Ev
 | 2022 | 28         | 13         | 46%             | Madrid/online    |
 | 2023 | 32         | 15         | 47%             | Brno/online    |
 | 2024 | 28         | 12         | 43%             | Aberystwyth    | 
+| 2025 | 43         | 16         | 37%             | Trieste    | 
 
 ![EvoCOP](fig/stats_evocop.png) 
 
@@ -336,6 +335,7 @@ EvoMUSART is held as part of EvoStar, which consists of EuroGP, EvoApplications,
 | 2022 | 66         | 26         | 39%             | Madrid/online    |
 | 2023 | 55         | 27         | 49%             | Brno/online    |
 | 2024 | 55         | 25         | 45%             | Aberystwyth    | 
+| 2025 | 52         | 28         | 54%             | Trieste    | 
 
 ![EvoMUSART](fig/stats_evomusart.png) 
 
@@ -365,6 +365,7 @@ EvoApplications is held as part of EvoStar, which consists of EuroGP, EvoApplica
 | 2022 | 67         | 46         | 69%             | Madrid/online    |
 | 2023 | 201         | 51         | 25%             | Brno/online    |
 | 2024 | 77         | 33         | 43%             | Aberystwyth    | 
+| 2025 | 104         | 68         | 65%             | Trieste    | 
 
 ![EvoApplications](fig/stats_evoapp.png) 
 
