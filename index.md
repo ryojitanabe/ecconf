@@ -29,8 +29,8 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 | [FOGA 2025](https://naco.liacs.nl/foga2025/) | Leiden, Netherlands | 2025.08.27 | 2025.08.29 |   | 2025.05.01 |
 | Evostar 2026 | Somewhere in Europe | 2026.04.?? | 2026.04.?? |   | 2025.1?.?? |
 | [WCCI 2026](https://attend.ieee.org/wcci-2026/) | Maastricht, Netherlands | 2026.06.21 | 2026.06.26 |  |2026.01.??|
-| PPSN 2026 | Somewhere in Europe | 2026.09.?? | 2026.09.?? |   | 2026.0?.?? |
-| EMO 2027 | Somewhere in this world | 2027.03.?? | 2027.03.?? |   | 2026.??.?? |
+| PPSN 2026 | Trento, Italy | 2026.09.?? | 2026.09.?? |   | 2026.0?.?? |
+| EMO 2027 | Exeter, UK | 2027.03.?? | 2027.03.?? |   | 2026.??.?? |
 
 ## <a id="coreranks" href="#coreranks">CORE2021 rankings</a> 
 
