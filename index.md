@@ -24,11 +24,10 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 
 |  Conference  | Venue | Start date | End date | Abstract submission | Paper submission |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| [CEC 2025](https://www.cec2025.org/) | Hangzhou,China | 2025.07.08 | 2025.07.12 |  |2025.01.15|
-| [GECCO 2025](https://gecco-2025.sigevo.org/) | Málaga, Spain | 2025.07.14 | 2025.07.18 | 2025.01.22  | 2025.01.29 |
 | [FOGA 2025](https://naco.liacs.nl/foga2025/) | Leiden, Netherlands | 2025.08.27 | 2025.08.29 |   | 2025.05.01 |
 | Evostar 2026 | Somewhere in Europe | 2026.04.?? | 2026.04.?? |   | 2025.1?.?? |
 | [WCCI 2026](https://attend.ieee.org/wcci-2026/) | Maastricht, Netherlands | 2026.06.21 | 2026.06.26 |  |2026.01.??|
+| GECCO 2026 | San Jose, Costa Rica | 2026.07.?? | 2026.07.?? | 2026.01.??  | 2026.01.?? |
 | PPSN 2026 | Trento, Italy | 2026.09.?? | 2026.09.?? |   | 2026.0?.?? |
 | EMO 2027 | Exeter, UK | 2027.03.?? | 2027.03.?? |   | 2026.??.?? |
 
@@ -79,8 +78,9 @@ This table provides statistics of full papers, not two-page poster papers.
 | 2022 | 426        | 158        | 37%             | Boston (hybrid)       | 
 | 2023 | 519        | 180        | 35%             | Lisbon (hybrid)       | 
 | 2024 | 497        | 178        | 36%             | Melbourne (hybrid)       |
+| 2025 | 501        | 181        | 36%             | Málaga (hybrid)       |
 
-![GECCO](fig/stats_gecco.png) 
+[![GECCO](fig/stats_gecco.png)](fig/stats_gecco.png)
 
 ## <a id="geccoposter" href="#geccoposter">GECCO two-page poster papers </a> 
 
@@ -115,9 +115,10 @@ It is not obvious how to calculate the acceptance rates of GECCO poster papers. 
 | 2019 | 501        | 168        | 173             | 68%             | Prague        | 
 | 2020 | 415        | 132        | 149             | 68%             | Cancún (online)        | 
 | 2021 | 362        | 136        | 134             | 75%             | Lille (online)       | 
-| 2022 | 426        | 184        | 158             | 80%             | Boston (hybrid)       | 
-| 2023 | 519        | 187        | 180             | 71%             | Lisbon (hybrid)       | 
-| 2024 | 497        | 160        | 178             | 68%             | Melbourne (hybrid)       | 
+| 2022 | 426        | 184        | 158             | 80%             | Boston       | 
+| 2023 | 519        | 187        | 180             | 71%             | Lisbon       | 
+| 2024 | 497        | 160        | 178             | 68%             | Melbourne       | 
+| 2025 | 501        | 218        | 181             | 80%             | Málaga       | 
 
 ![GECCO (poster)](fig/stats_gecco_poster.png) 
 
