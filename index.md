@@ -120,7 +120,8 @@ It is not obvious how to calculate the acceptance rates of GECCO poster papers. 
 | 2024 | 497        | 160        | 178             | 68%             | Melbourne       | 
 | 2025 | 501        | 218        | 181             | 80%             | Málaga       | 
 
-![GECCO (poster)](fig/stats_gecco_poster.png) 
+[![GECCO (poster)](fig/stats_gecco_poster.png)](fig/stats_gecco_poster.png)
+
 
 ## <a id="ppsn" href="#ppsn">PPSN: Parallel Problem Solving from Nature</a> 
 
@@ -148,7 +149,7 @@ PPSN is held in even years.
 | 2022 | 185        | 85         | 46%             | Dortmund     | 
 | 2024 | 294        | 101         | 34%             | Hagenberg     | 
 
-![PPSN](fig/stats_ppsn.png) 
+[![PPSN](fig/stats_ppsn.png)](fig/stats_ppsn.png)
 
 ## <a id="cec" href="#cec">CEC: IEEE Congress on Evolutionary Computation</a> 
 
@@ -186,7 +187,7 @@ CEC is held as part of WCCI in even years.
 | 2023 | 230        | 130        | 57%             | Chicago        | 
 | 2024 | 665        | 350        | 53%             | Yokohama        | 
 
-![CEC](fig/stats_cec.png) 
+[![CEC](fig/stats_cec.png)](fig/stats_cec.png)
 
 ## <a id="foga" href="#foga">FOGA: ACM/SIGEVO Workshop on Foundations of Genetic Algorithms</a> 
 
@@ -209,7 +210,7 @@ FOGA has been held in odd years since 2005. Statistics of most FOGA conferences 
 | 2019 | 31         | 15         | 48%             |  Potsdam        | 
 | 2021 | 21         | 10         | 48%             |  Dornbirn (online)        | 
 
-![FOGA](fig/stats_foga.png) 
+[![FOGA](fig/stats_foga.png)](fig/stats_foga.png)
 
 ## <a id="emo" href="#emo">EMO: Conference on Evolutionary Multi-Criterion Optimization</a> 
 
@@ -235,7 +236,8 @@ EMO is held in odd years.
 | 2023 | 65         | 44         | 68%             | Leiden | 
 | 2025 | 57         | 38         | 67%             | Canberra | 
 
-![EMO](fig/stats_emo.png) 
+[![EMO](fig/stats_emo.png)](fig/stats_emo.png)
+
 
 ## <a id="eurogp" href="#eurogp">EuroGP: European Conference on Genetic Programming</a> 
 
@@ -273,7 +275,7 @@ EuroGP is held as part of EvoStar, which consists of EuroGP, EvoApplications, Ev
 | 2024 | 24         | 13         | 54%             | Aberystwyth    | 
 | 2025 | 27         | 15         | 56%             | Trieste    | 
 
-![EuroGP](fig/stats_eurogp.png) 
+[![EuroGP](fig/stats_eurogp.png)](fig/stats_eurogp.png)
 
 ## <a id="evocop" href="#evocop"> EvoCOP: European Conference on Evolutionary Computation in Combinatorial Optimisation</a> 
 
@@ -311,7 +313,7 @@ EvoCOP is held as part of EvoStar, which consists of EuroGP, EvoApplications, Ev
 | 2024 | 28         | 12         | 43%             | Aberystwyth    | 
 | 2025 | 43         | 16         | 37%             | Trieste    | 
 
-![EvoCOP](fig/stats_evocop.png) 
+[![EvoCOP](fig/stats_evocop.png)](fig/stats_evocop.png)
 
 ## <a id="evomusart" href="#evomusart"> EvoMUSART:  International Conference on Artificial Intelligence in Music, Sound, Art and Design </a> 
 
@@ -338,7 +340,7 @@ EvoMUSART is held as part of EvoStar, which consists of EuroGP, EvoApplications,
 | 2024 | 55         | 25         | 45%             | Aberystwyth    | 
 | 2025 | 52         | 28         | 54%             | Trieste    | 
 
-![EvoMUSART](fig/stats_evomusart.png) 
+[![EvoMUSART](fig/stats_evomusart.png)](fig/stats_evomusart.png)
 
 ## <a id="evoapp" href="#evoapp"> EvoApplications:  International Conference on the Applications of Evolutionary Computation </a> 
 
@@ -368,5 +370,4 @@ EvoApplications is held as part of EvoStar, which consists of EuroGP, EvoApplica
 | 2024 | 77         | 33         | 43%             | Aberystwyth    | 
 | 2025 | 104         | 68         | 65%             | Trieste    | 
 
-![EvoApplications](fig/stats_evoapp.png) 
-
+[![EvoApplications](fig/stats_evoapp.png)](fig/stats_evoapp.png)
