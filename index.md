@@ -30,6 +30,8 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 | GECCO 2026 | San Jose, Costa Rica | 2026.07.?? | 2026.07.?? | 2026.01.??  | 2026.01.?? |
 | PPSN 2026 | Trento, Italy | 2026.09.?? | 2026.09.?? |   | 2026.0?.?? |
 | EMO 2027 | Exeter, UK | 2027.03.?? | 2027.03.?? |   | 2026.??.?? |
+| CEC 2027 | Edinburgh, UK | 2027.0?.?? | 2027.0?.?? |   | 2027.0?.?? |
+
 
 ## <a id="coreranks" href="#coreranks">CORE2021 rankings</a> 
 
