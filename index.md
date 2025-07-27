@@ -25,7 +25,7 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 |  Conference  | Venue | Start date | End date | Abstract submission | Paper submission |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | [FOGA 2025](https://naco.liacs.nl/foga2025/) | Leiden, Netherlands | 2025.08.27 | 2025.08.29 |   | 2025.05.01 |
-| Evostar 2026 | Somewhere in Europe | 2026.04.?? | 2026.04.?? |   | 2025.1?.?? |
+| [Evostar 2026](https://www.evostar.org/2026/) | Toulouse, France | 2026.04.08 | 2026.04.10 |   | 2025.11.01 |
 | [WCCI 2026](https://attend.ieee.org/wcci-2026/) | Maastricht, Netherlands | 2026.06.21 | 2026.06.26 |  |2026.01.??|
 | GECCO 2026 | San Jose, Costa Rica | 2026.07.?? | 2026.07.?? | 2026.01.??  | 2026.01.?? |
 | PPSN 2026 | Trento, Italy | 2026.09.?? | 2026.09.?? |   | 2026.0?.?? |
