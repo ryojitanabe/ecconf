@@ -211,6 +211,9 @@ FOGA has been held in odd years since 2005. Statistics of most FOGA conferences 
 | 2017 | 23         | 13         | 57%             | Copenhagen      | 
 | 2019 | 31         | 15         | 48%             |  Potsdam        | 
 | 2021 | 21         | 10         | 48%             |  Dornbirn (online)        | 
+| 2023 | 27         | 14         | 52%             |  Potsdam        | 
+| 2025 | 56         | 26         | 46%             |  Leiden        | 
+
 
 [![FOGA](fig/stats_foga.png)](fig/stats_foga.png)
 
