@@ -24,14 +24,13 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 
 |  Conference  | Venue | Start date | End date | Abstract submission | Paper submission |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| [FOGA 2025](https://naco.liacs.nl/foga2025/) | Leiden, Netherlands | 2025.08.27 | 2025.08.29 |   | 2025.05.01 |
 | [Evostar 2026](https://www.evostar.org/2026/) | Toulouse, France | 2026.04.08 | 2026.04.10 |   | 2025.11.01 |
 | [WCCI 2026](https://attend.ieee.org/wcci-2026/) | Maastricht, Netherlands | 2026.06.21 | 2026.06.26 |  |2026.01.??|
-| GECCO 2026 | San Jose, Costa Rica | 2026.07.?? | 2026.07.?? | 2026.01.??  | 2026.01.?? |
-| PPSN 2026 | Trento, Italy | 2026.09.?? | 2026.09.?? |   | 2026.0?.?? |
+| [GECCO 2026](https://gecco-2026.sigevo.org/HomePage) | San Jose, Costa Rica | 2026.07.?? | 2026.07.?? | 2026.01.??  | 2026.01.?? |
+| [PPSN 2026](https://ppsn2026.disi.unitn.it/) | Trento, Italy | 2026.08.29 | 2026.09.02 |   | 2026.03.28 |
 | EMO 2027 | Exeter, UK | 2027.03.?? | 2027.03.?? |   | 2026.??.?? |
 | CEC 2027 | Edinburgh, UK | 2027.0?.?? | 2027.0?.?? |   | 2027.0?.?? |
-
+| FOGA 2027 | Somewhere in this world | 2027.0?.?? | 2027.0?.?? |   | 2027.0?.0? |
 
 ## <a id="coreranks" href="#coreranks">CORE2021 rankings</a> 
 
