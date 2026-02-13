@@ -70,5 +70,6 @@ def plot_stats(conference):
     
 if __name__ == '__main__':
     #for conference in ['ppsn', 'gecco', 'cec', 'foga', 'emo', 'eurogp', 'evocop', 'evomusart', 'evoapp']:    
-    for conference in ['cec']:
+    for conference in ['ppsn']:
+    #for conference in ['gecco', 'gecco_poster']:    
         plot_stats(conference)
