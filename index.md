@@ -24,11 +24,11 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 
 |  Conference  | Venue | Start date | End date | Abstract submission | Paper submission |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| [Evostar 2026](https://www.evostar.org/2026/) | Toulouse, France | 2026.04.08 | 2026.04.10 |   | 2025.11.01 |
 | [WCCI 2026](https://attend.ieee.org/wcci-2026/) | Maastricht, Netherlands | 2026.06.21 | 2026.06.26 |  |2026.01.31|
-| [GECCO 2026](https://gecco-2026.sigevo.org/HomePage) | San Jose, Costa Rica | 2026.07.13 | 2026.07.17 | 2026.01.19  | 2026.01.26 |
+| [GECCO 2026](https://gecco-2026.sigevo.org/HomePage) | San José, Costa Rica | 2026.07.13 | 2026.07.17 | 2026.01.19  | 2026.01.26 |
 | [PPSN 2026](https://ppsn2026.disi.unitn.it/) | Trento, Italy | 2026.08.29 | 2026.09.02 |   | 2026.03.28 |
 | [EMO 2027](https://www.emo2027.org/) | Exeter, UK | 2027.04.05 | 2027.04.08 |   | 2026.09.28 |
+| Evostar 2027 | Mainz, Germany | 2027.04.?? | 2027.04.?? |   | 2026.11.?? |
 | CEC 2027 | Edinburgh, UK | 2027.07.25 | 2027.07.28 |   | 2027.01.15 |
 | FOGA 2027 | Somewhere in this world | 2027.0?.?? | 2027.0?.?? |   | 2027.0?.0? |
 | WCCI 2028 | New Delhi, India | 2028.07.23 | 2028.07.28 |   | 2028.01.?? |
@@ -279,6 +279,7 @@ EuroGP is held as part of EvoStar, which consists of EuroGP, EvoApplications, Ev
 | 2023 | 38         | 22         | 58%             | Brno/online    | 
 | 2024 | 24         | 13         | 54%             | Aberystwyth    | 
 | 2025 | 27         | 15         | 56%             | Trieste    | 
+| 2026 | 34         | 19         | 56%             | Toulouse    | 
 
 [![EuroGP](fig/stats_eurogp.png)](fig/stats_eurogp.png)
 
@@ -317,6 +318,7 @@ EvoCOP is held as part of EvoStar, which consists of EuroGP, EvoApplications, Ev
 | 2023 | 32         | 15         | 47%             | Brno/online    |
 | 2024 | 28         | 12         | 43%             | Aberystwyth    | 
 | 2025 | 43         | 16         | 37%             | Trieste    | 
+| 2026 | 42         | 10         | 24%             | Toulouse    | 
 
 [![EvoCOP](fig/stats_evocop.png)](fig/stats_evocop.png)
 
@@ -344,6 +346,7 @@ EvoMUSART is held as part of EvoStar, which consists of EuroGP, EvoApplications,
 | 2023 | 55         | 27         | 49%             | Brno/online    |
 | 2024 | 55         | 25         | 45%             | Aberystwyth    | 
 | 2025 | 52         | 28         | 54%             | Trieste    | 
+| 2026 | 58         | 28         | 48%             | Toulouse    | 
 
 [![EvoMUSART](fig/stats_evomusart.png)](fig/stats_evomusart.png)
 
@@ -374,5 +377,6 @@ EvoApplications is held as part of EvoStar, which consists of EuroGP, EvoApplica
 | 2023 | 201         | 51         | 25%             | Brno/online    |
 | 2024 | 77         | 33         | 43%             | Aberystwyth    | 
 | 2025 | 104         | 68         | 65%             | Trieste    | 
+| 2026 | 106         | 67         | 63%             | Toulouse    | 
 
 [![EvoApplications](fig/stats_evoapp.png)](fig/stats_evoapp.png)
