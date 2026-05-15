@@ -188,6 +188,7 @@ CEC is held as part of WCCI in even years.
 | 2022 | Na        | 223        | Na             | Padva        | 
 | 2023 | 230        | 130        | 57%             | Chicago        | 
 | 2024 | 665        | 350        | 53%             | Yokohama        | 
+| 2025 | 365        | 142        | 39%             | Hangzhou        | 
 
 [![CEC](fig/stats_cec.png)](fig/stats_cec.png)
 
