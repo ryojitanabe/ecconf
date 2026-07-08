@@ -24,11 +24,10 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 
 |  Conference  | Venue | Start date | End date | Abstract submission | Paper submission |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| [WCCI 2026](https://attend.ieee.org/wcci-2026/) | Maastricht, Netherlands | 2026.06.21 | 2026.06.26 |  |2026.01.31|
 | [GECCO 2026](https://gecco-2026.sigevo.org/HomePage) | San José, Costa Rica | 2026.07.13 | 2026.07.17 | 2026.01.19  | 2026.01.26 |
 | [PPSN 2026](https://ppsn2026.disi.unitn.it/) | Trento, Italy | 2026.08.29 | 2026.09.02 |   | 2026.03.28 |
 | [EMO 2027](https://www.emo2027.org/) | Exeter, UK | 2027.04.05 | 2027.04.08 |   | 2026.09.28 |
-| Evostar 2027 | Mainz, Germany | 2027.04.?? | 2027.04.?? |   | 2026.11.?? |
+| [Evostar 2027](https://www.evostar.org/2027/) | Mainz, Germany | 2027.03.31 | 2027.04.02 |   | 2026.11.01 |
 | CEC 2027 | Edinburgh, UK | 2027.07.25 | 2027.07.28 |   | 2027.01.15 |
 | FOGA 2027 | Somewhere in this world | 2027.0?.?? | 2027.0?.?? |   | 2027.0?.0? |
 | WCCI 2028 | New Delhi, India | 2028.07.23 | 2028.07.28 |   | 2028.01.?? |
@@ -81,6 +80,7 @@ This table provides statistics of full papers, not two-page poster papers.
 | 2023 | 519        | 180        | 35%             | Lisbon (hybrid)       | 
 | 2024 | 497        | 178        | 36%             | Melbourne (hybrid)       |
 | 2025 | 501        | 181        | 36%             | Málaga (hybrid)       |
+| 2026 | 425        | 150        | 35%             | San José (hybrid)       |
 
 [![GECCO](fig/stats_gecco.png)](fig/stats_gecco.png)
 
@@ -121,6 +121,7 @@ It is not obvious how to calculate the acceptance rates of GECCO poster papers. 
 | 2023 | 519        | 187        | 180             | 71%             | Lisbon       | 
 | 2024 | 497        | 160        | 178             | 68%             | Melbourne       | 
 | 2025 | 501        | 218        | 181             | 80%             | Málaga       | 
+| 2026 | 425        | 158        | 150             | 72%             | San José       | 
 
 [![GECCO (poster)](fig/stats_gecco_poster.png)](fig/stats_gecco_poster.png)
 
