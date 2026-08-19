@@ -29,7 +29,7 @@ The date format in the following table is ``Year.Month.Day``. The submission dea
 | [Evostar 2027](https://www.evostar.org/2027/) | Mainz, Germany | 2027.03.31 | 2027.04.02 |   | 2026.11.01 |
 | [GECCO 2027](https://gecco-2027.sigevo.org/HomePage) | Kraków, Poland | 2027.07.12 | 2027.07.16 | 2027.01.??  | 2027.01.?? |
 | [CEC 2027](https://ieeecec.org/2027) | Edinburgh, UK | 2027.07.25 | 2027.07.28 |   | 2027.01.15 |
-| FOGA 2027 | Coimbra, Portugal | 2027.0?.?? | 2027.0?.?? |   | 2027.0?.0? |
+| [FOGA 2027](https://foga2027.dei.uc.pt/) | Coimbra, Portugal | 2027.09.01 | 2027.09.03 |   | 2027.05.03 |
 | WCCI 2028 | New Delhi, India | 2028.07.23 | 2028.07.28 |   | 2028.01.?? |
 
 ## <a id="coreranks" href="#coreranks">CORE2021 rankings</a> 
